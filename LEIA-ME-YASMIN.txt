@@ -1,0 +1,6 @@
+Álbum Online — Yasmin 15 anos
+Paleta: bordô e dourado.
+Evento Supabase: yasmin-15-anos
+Bucket: fotos-eventos
+
+Publique os arquivos no GitHub Pages. A pasta do evento no Supabase Storage aparece após o primeiro upload bem-sucedido.
